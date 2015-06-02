@@ -4,3 +4,18 @@ sites/*/settings*.php
 # Ignore paths that contain user-generated content.
 sites/*/files
 sites/*/private
+#
+modules/ctools/
+modules/entity/
+modules/entityreference/
+modules/features/
+modules/message/
+modules/party/
+modules/strongarm/
+modules/token/
+modules/views/
+modules/date/
+
+.com.apple.timemachine.supported
+sites/default/README.md
+
