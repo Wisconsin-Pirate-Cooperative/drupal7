@@ -1,0 +1,3 @@
+[submodule "themes/WIPPTheme"]
+	path = themes/WIPPTheme
+	url = git@github.com:josephtklein/WIPPTheme.git
