@@ -1,0 +1,31 @@
+[submodule "themes/WIPPTheme"]
+        path = themes/WIPPTheme
+        url = git@github.com:josephtklein/WIPPTheme.git
+
+[submodule "sites/www.wipp.coop"]
+        path = sites/www.wipp.coop
+        url = git@github.com:josephtklein/www.wipp.coop.git
+[submodule "modules/entity"]
+	path = modules/entity
+	url = http://git.drupal.org/project/entity.git
+[submodule "modules/entityreference"]
+	path = modules/entityreference
+	url = http://git.drupal.org/project/entityreference.git
+[submodule "modules/context"]
+	path = modules/context
+	url = http://git.drupal.org/project/context.git
+[submodule "modules/date"]
+	path = modules/date
+	url = http://git.drupal.org/project/date.git
+[submodule "modules/message"]
+	path = modules/message
+	url = http://git.drupal.org/project/message.git
+[submodule "modules/ctools"]
+	path = modules/ctools
+	url = http://git.drupal.org/project/ctools.git
+[submodule "modules/profile2"]
+	path = modules/profile2
+	url = http://git.drupal.org/project/profile2.git
+[submodule "modules/views"]
+	path = modules/views
+	url = http://git.drupal.org/project/views.git
