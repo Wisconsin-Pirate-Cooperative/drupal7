@@ -1,40 +1,63 @@
 [submodule "themes/WIPPTheme"]
 	path = themes/WIPPTheme
 	url = git@github.com:josephtklein/WIPPTheme.git
-
 [submodule "modules/party"]
 	path = modules/party
 	url = http://git.drupal.org/project/party.git
-
 [submodule "modules/entity"]
 	path = modules/entity
 	url = http://git.drupal.org/project/entity.git
-
 [submodule "modules/views"]
 	path = modules/views
 	url = http://git.drupal.org/project/views.git
-
-[submodule "modules/messsage"]
-	path = modules/messsage
-	url = http://git.drupal.org/project/messsage.git
-
 [submodule "modules/token"]
 	path = modules/token
 	url = http://git.drupal.org/project/token.git
-
 [submodule "modules/entityreference"]
 	path = modules/entityreference
 	url = http://git.drupal.org/project/entityreference.git
-
 [submodule "modules/features"]
 	path = modules/features
 	url = http://git.drupal.org/project/features.git
-
 [submodule "modules/strongarm"]
 	path = modules/strongarm
 	url = http://git.drupal.org/project/strongarm.git
-
 [submodule "modules/date"]
 	path = modules/date
 	url = http://git.drupal.org/project/date.git
-
+[submodule "modules/message"]
+	path = modules/message
+	url = http://git.drupal.org/project/message.git
+[submodule "modules/profile2"]
+	path = modules/profile2
+	url = http://git.drupal.org/project/profile2.git
+[submodule "modules/modules/email_confirm"]
+	path = modules/modules/email_confirm
+	url = http://git.drupal.org/project/email_confirm.git
+[submodule "modules/email_confirm"]
+	path = modules/email_confirm
+	url = http://git.drupal.org/project/email_confirm.git
+[submodule "modules/spamicide"]
+	path = modules/spamicide
+	url = http://git.drupal.org/project/spamicide.git
+[submodule "modules/recaptcha"]
+	path = modules/recaptcha
+	url = http://git.drupal.org/project/recaptcha.git
+[submodule "modules/captcha"]
+	path = modules/captcha
+	url = http://git.drupal.org/project/captcha.git
+[submodule "modules/context"]
+	path = modules/context
+	url = http://git.drupal.org/project/context.git
+[submodule "sites/www.wipp.coop"]
+	path = sites/www.wipp.coop
+	url = git@github.com:josephtklein/www.wipp.coop.git
+[submodule "modules/wysiwyg"]
+	path = modules/wysiwyg
+	url = http://git.drupal.org/project/wysiwyg.git
+[submodule "modules/wysiwyg_ckeditor.git"]
+	path = modules/wysiwyg_ckeditor.git
+	url = http://git.drupal.org/project/wysiwyg_ckeditor.git
+[submodule "modules/ctools.git"]
+	path = modules/ctools.git
+	url = http://git.drupal.org/project/ctools.git
