@@ -58,3 +58,6 @@
 [submodule "sites/www.wipp.coop"]
 	path = sites/www.wipp.coop
 	url = git@github.com:josephtklein/www.wipp.coop.git
+[submodule "modules/og"]
+	path = modules/og
+	url = http://git.drupal.org/project/og.git
