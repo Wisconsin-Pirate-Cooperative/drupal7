@@ -61,3 +61,6 @@
 [submodule "modules/og"]
 	path = modules/og
 	url = http://git.drupal.org/project/og.git
+[submodule "modules/views_bulk_operations"]
+	path = modules/views_bulk_operations
+	url = http://git.drupal.org/project/views_bulk_operations.git
