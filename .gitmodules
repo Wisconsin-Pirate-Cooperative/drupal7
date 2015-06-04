@@ -55,9 +55,9 @@
 [submodule "modules/wysiwyg"]
 	path = modules/wysiwyg
 	url = http://git.drupal.org/project/wysiwyg.git
-[submodule "modules/wysiwyg_ckeditor.git"]
-	path = modules/wysiwyg_ckeditor.git
+[submodule "modules/wysiwyg_ckeditor"]
+	path = modules/wysiwyg_ckeditor
 	url = http://git.drupal.org/project/wysiwyg_ckeditor.git
-[submodule "modules/ctools.git"]
+[submodule "modules/ctools"]
 	path = modules/ctools
 	url = http://git.drupal.org/project/ctools.git
