@@ -31,9 +31,6 @@
 [submodule "modules/profile2"]
 	path = modules/profile2
 	url = http://git.drupal.org/project/profile2.git
-[submodule "modules/modules/email_confirm"]
-	path = modules/modules/email_confirm
-	url = http://git.drupal.org/project/email_confirm.git
 [submodule "modules/email_confirm"]
 	path = modules/email_confirm
 	url = http://git.drupal.org/project/email_confirm.git
@@ -49,15 +46,15 @@
 [submodule "modules/context"]
 	path = modules/context
 	url = http://git.drupal.org/project/context.git
-[submodule "sites/www.wipp.coop"]
-	path = sites/www.wipp.coop
-	url = git@github.com:josephtklein/www.wipp.coop.git
 [submodule "modules/wysiwyg"]
 	path = modules/wysiwyg
 	url = http://git.drupal.org/project/wysiwyg.git
-[submodule "modules/wysiwyg_ckeditor"]
+[submodule "modules/modules/wysiwyg_ckeditor"]
 	path = modules/wysiwyg_ckeditor
 	url = http://git.drupal.org/project/wysiwyg_ckeditor.git
 [submodule "modules/ctools"]
 	path = modules/ctools
 	url = http://git.drupal.org/project/ctools.git
+[submodule "sites/www.wipp.coop"]
+	path = sites/www.wipp.coop
+	url = git@github.com:josephtklein/www.wipp.coop.git
