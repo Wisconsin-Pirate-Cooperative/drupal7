@@ -85,3 +85,48 @@
 [submodule "modules/i18n"]
 	path = modules/i18n
 	url = http://git.drupal.org/project/i18n.git
+[submodule "modules/bean"]
+	path = modules/bean
+	url = http://git.drupal.org/project/bean.git
+[submodule "modules/modules/twitter_timeline"]
+	path = modules/modules/twitter_timeline
+	url = http://git.drupal.org/project/twitter_timeline.git
+[submodule "modules/twitter_timeline"]
+	path = modules/twitter_timeline
+	url = http://git.drupal.org/project/twitter_timeline.git
+[submodule "modules/modules/opencrm"]
+	path = modules/modules/opencrm
+	url = http://git.drupal.org/project/opencrm.git
+[submodule "modules/opencrm"]
+	path = modules/opencrm
+	url = http://git.drupal.org/project/opencrm.git
+[submodule "modules/uuid"]
+	path = modules/uuid
+	url = http://git.drupal.org/project/uuid.git
+[submodule "modules/variable"]
+	path = modules/variable
+	url = http://git.drupal.org/project/variable.git
+[submodule "modules/panels"]
+	path = modules/panels
+	url = http://git.drupal.org/project/panels.git
+[submodule "modules/party_og"]
+	path = modules/party_og
+	url = http://git.drupal.org/project/party_og.git
+[submodule "modules/flexiform"]
+	path = modules/flexiform
+	url = http://git.drupal.org/project/flexiform.git
+[submodule "modules/crm_core_flexiform"]
+	path = modules/crm_core_flexiform
+	url = http://git.drupal.org/project/crm_core_flexiform.git
+[submodule "modules/party_extras"]
+	path = modules/party_extras
+	url = http://git.drupal.org/project/party_extras.git
+[submodule "modules/party_simplenews"]
+	path = modules/party_simplenews
+	url = http://git.drupal.org/project/party_simplenews.git
+[submodule "modules/opencrm_kickstart"]
+	path = modules/opencrm_kickstart
+	url = http://git.drupal.org/project/opencrm_kickstart.git
+[submodule "modules/services"]
+	path = modules/services
+	url = http://git.drupal.org/project/services.git
