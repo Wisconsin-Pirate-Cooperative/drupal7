@@ -64,3 +64,24 @@
 [submodule "modules/views_bulk_operations"]
 	path = modules/views_bulk_operations
 	url = http://git.drupal.org/project/views_bulk_operations.git
+[submodule "sites/all/libraries/ckeditor"]
+	path = sites/all/libraries/ckeditor
+	url = https://github.com/ckeditor/ckeditor-dev.git
+[submodule "modules/sites/all/libraries/composer_manager"]
+	path = modules/sites/all/libraries/composer_manager
+	url = http://git.drupal.org/project/composer_manager.git
+[submodule "sites/all/libraries/composer_manager"]
+	path = sites/all/libraries/composer_manager
+	url = http://git.drupal.org/project/composer_manager.git
+[submodule "modules/composer_manager"]
+	path = modules/composer_manager
+	url = http://git.drupal.org/project/composer_manager.git
+[submodule "modules/git_wrapper"]
+	path = modules/git_wrapper
+	url = http://git.drupal.org/project/git_wrapper.git
+[submodule "modules/symfony"]
+	path = modules/symfony
+	url = http://git.drupal.org/project/symfony.git
+[submodule "modules/i18n"]
+	path = modules/i18n
+	url = http://git.drupal.org/project/i18n.git
