@@ -130,3 +130,30 @@
 [submodule "modules/services"]
 	path = modules/services
 	url = http://git.drupal.org/project/services.git
+[submodule "modules/relation"]
+	path = modules/relation
+	url = http://git.drupal.org/project/relation.git
+[submodule "modules/simplenews"]
+	path = modules/simplenews
+	url = http://git.drupal.org/project/simplenews.git
+[submodule "modules/addressfield"]
+	path = modules/addressfield
+	url = http://git.drupal.org/project/addressfield.git
+[submodule "modules/email"]
+	path = modules/email
+	url = http://git.drupal.org/project/email.git
+[submodule "modules/name"]
+	path = modules/name
+	url = http://git.drupal.org/project/name.git
+[submodule "modules/modules/panopoly_core"]
+	path = modules/modules/panopoly_core
+	url = http://git.drupal.org/project/panopoly_core.git
+[submodule "modules/panopoly_core"]
+	path = modules/panopoly_core
+	url = http://git.drupal.org/project/panopoly_core.git
+[submodule "modules/collapsiblock"]
+	path = modules/collapsiblock
+	url = http://git.drupal.org/project/collapsiblock.git
+[submodule "modules/search_api"]
+	path = modules/search_api
+	url = http://git.drupal.org/project/search_api.git
